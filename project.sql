@@ -165,7 +165,7 @@ CREATE TABLE IF NOT EXISTS `user_account` (
 --
 
 INSERT INTO `user_account` (`EmployeID`, `Full_name`, `Sex`, `Department`, `Position`, `Email`, `Phone`, `Username`, `password`, `role`, `status`, `date_posted`) VALUES
-('9137', 'Hana Berhanu', 'Female', 'ETC', 'Cooridnator', 'hana.berhanu@ethiotelecom.et', '0911590011', 'hanab', '81dc9bdb52d04dc20036dbd8313ed055', 'Administrator', 'Enable', '2018-04-21');
+('9137', 'Abcsd Berhanu', 'Female', 'ETC', 'Cooridnator', 'hana.hanu@com.et', '091100000', 'hanab', '81dc9bdb52d04dc20036dbd8313ed055', 'Administrator', 'Enable', '2018-04-21');
 
 --
 -- Constraints for dumped tables
